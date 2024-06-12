@@ -1,0 +1,1 @@
+Object Detection is a challenging task and with the upcoming multimodal models specially PaliGemma I wanted to see how it would fair in the task, The dataset is part of Roboflow as it was customized to be used for PaliGemma.
